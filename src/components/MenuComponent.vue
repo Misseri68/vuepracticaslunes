@@ -7,6 +7,15 @@
             <li>
                 <router-link to="/collatz">Collatz</router-link>
             </li>
+            <li>
+                <router-link to="/tabla1">Tabla 1</router-link>
+            </li>
+            <li>
+                <router-link to="/tabla2">Tabla 2</router-link>
+            </li>
+            <li>
+                <router-link to="/tabla3">Tabla 3</router-link>
+            </li>
         </ul>
     </div>
 </template>

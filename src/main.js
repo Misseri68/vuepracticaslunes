@@ -12,6 +12,14 @@ app.config.globalProperties.$filters = {
         else{
             return("<span style='color:orange'>" + num + "</span>")
         }
+    },
+
+    getOperacion(num, i){
+        return(num + "x" + i)
+    },
+
+    getResultado(num, i){
+        return(num*i)
     }
 }
 
