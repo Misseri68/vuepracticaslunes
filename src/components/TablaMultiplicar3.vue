@@ -31,9 +31,3 @@ export default {
 }
 </script>
 
-<style>
-table {
-    margin: auto;
-    margin-top: 2em;
-}
-</style>
